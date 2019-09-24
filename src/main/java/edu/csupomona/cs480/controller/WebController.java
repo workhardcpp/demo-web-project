@@ -69,11 +69,18 @@ public class WebController {
 	}
 	
 	@RequestMapping(value = "/cs480/fg", method = RequestMethod.GET)
-	String hydEdited() {
+	String fgEdited() {
 		// You can replace this with other string,
 		// and run the application locally to check your changes
 		// with the URL: http://localhost:8080/
 		return "FengGuan Edited";
+	}
+	@RequestMapping(value = "/cs480/cl", method = RequestMethod.GET)
+	String clEdited() {
+		// You can replace this with other string,
+		// and run the application locally to check your changes
+		// with the URL: http://localhost:8080/
+		return "Chenning Li Edited";
 	}
 	/**
 	 * This is a simple example of how to use a data manager
