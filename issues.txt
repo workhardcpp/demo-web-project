@@ -1,0 +1,9 @@
+The features of this project is that user can upload their pitcutes onto the website, and other people may see them.
+the users may add their cooking recipes.
+the user with most likes cooking recipes will appear at top of the lists.
+the issuses that we might have are:
+
+
+
+
+
